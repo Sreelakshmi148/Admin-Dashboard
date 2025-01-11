@@ -2,11 +2,6 @@
 
 A clean and responsive Admin Dashboard built with HTML and CSS. This project is designed to provide an intuitive interface for managing data and operations efficiently.
 
-## 🖥️ Demo
-
-Check out the live demo of the Admin Dashboard [http://127.0.0.1:5500/](#).  
-(*Update with the live demo link if available.*)
-
 ---
 
 ## 📂 Features
@@ -28,7 +23,7 @@ Check out the live demo of the Admin Dashboard [http://127.0.0.1:5500/](#).
 
 This Admin Dashboard includes:  
 - A **dashboard overview** with key performance indicators (KPIs).  
-- **Navigation menu** for accessing various sections.  
+- **Navigation menu** for accessing various sections.
 - A **user-friendly interface** for managing tasks and data.  
 
 ---
